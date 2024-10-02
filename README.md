@@ -4,3 +4,14 @@ https://medium.com/linedevth/มาทำให้-line-group-ช่วยเก
 
 ## Setting
 1. Create LINE Chatbot
+
+
+## Rename File Environment
+```
+mv .env.example .env
+```
+
+## Edit .env
+1. LINE_CHANNEL_SECRET= 'LINE Developer Console'
+2. LINE_CHANNEL_ACCESS_TOKEN='LINE Developer Console'
+3. BUCKET_NAME='firebase storage'
